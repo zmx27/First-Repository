@@ -11,6 +11,4 @@ public class activity1 {
             result *= 2;
         }
     }
-
-    
 }
